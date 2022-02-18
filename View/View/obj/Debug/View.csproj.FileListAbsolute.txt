@@ -1,0 +1,14 @@
+C:\visual\НТП4\ЛР3\Clone\View\View\bin\Debug\View.exe.config
+C:\visual\НТП4\ЛР3\Clone\View\View\bin\Debug\View.exe
+C:\visual\НТП4\ЛР3\Clone\View\View\bin\Debug\View.pdb
+C:\visual\НТП4\ЛР3\Clone\View\View\bin\Debug\Model.pdb
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.AddForm.resources
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.FindForm.resources
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.TransportForm.resources
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.Properties.Resources.resources
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.csproj.CopyComplete
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.exe
+C:\visual\НТП4\ЛР3\Clone\View\View\obj\Debug\View.pdb
